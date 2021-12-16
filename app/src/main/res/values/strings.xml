@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProctorApp-StudentProfile</string>
+    <string name="ise_5th_sem">ISE,5th Sem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
